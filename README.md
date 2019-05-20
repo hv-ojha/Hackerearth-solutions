@@ -2,4 +2,4 @@
 Solution of hackerearth problems
 
 ### List of Problems
-- [Prime Number](prime-number.java)
+- [Basics Of Input/Output](Basics of Input Output)
