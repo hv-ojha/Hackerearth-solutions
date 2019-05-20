@@ -114,5 +114,6 @@ class TestClass {
                 System.out.print(" AS");
             System.out.println();
         }
+        sc.close();
     }
 }

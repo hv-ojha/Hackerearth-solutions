@@ -64,7 +64,7 @@ class TestClass {
         {
             System.out.println(ex);
         }
-
+        s.close();
         // Write your code here
 
     }
