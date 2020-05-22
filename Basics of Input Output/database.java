@@ -32,7 +32,7 @@ import java.util.regex.Pattern;
  * No string will be length of more than 30 characters and integer more than 20 digits
  */
 
-class database {
+public class database {
     public static void main(String[] args) throws IOException {
         FileReader fr = new FileReader(new File("input1.txt"));
         BufferedReader br = new BufferedReader(fr);
